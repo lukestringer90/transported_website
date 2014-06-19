@@ -1364,12 +1364,12 @@ body {
 }
 
 #intro {
-    padding-top: 120px
+    padding-top: 75px
 }
 
 @media (min-width: 481px) { 
     #intro {
-        padding-top: 160px
+        padding-top: 75px
     }
 }
 
